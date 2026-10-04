@@ -1,0 +1,3 @@
+,pr_auc,roc_auc,precision,recall,f1,false_alarms,threshold
+logreg,0.958,0.991,0.94,0.802,0.865,32.0,0.873
+xgboost,0.948,0.989,0.91,0.8,0.852,49.0,0.652
